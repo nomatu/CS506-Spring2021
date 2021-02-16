@@ -2,16 +2,16 @@
 
 #### This is your checklist:
 
-- [ ] Create a repo on GitHub (GH)
-- [ ] Clone a repo
-- [ ] Look at remotes
-- [ ] Create a branch
-- [ ] Switch to another branch
-- [ ] Push changes to GH from terminal
-- [ ] Submit a pull request (PR) on GH
-- [ ] Merge the pull request (PR) on GH
-- [ ] Pull changes locally
-- [ ] Recover a deleted file
+- [x] Create a repo on GitHub (GH)
+- [x] Clone a repo
+- [x] Look at remotes
+- [x] Create a branch
+- [x] Switch to another branch
+- [x] Push changes to GH from terminal
+- [x] Submit a pull request (PR) on GH
+- [x] Merge the pull request (PR) on GH
+- [x] Pull changes locally
+- [x] Recover a deleted file
 
 ---
 
